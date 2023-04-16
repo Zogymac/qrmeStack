@@ -16,6 +16,6 @@ Get запрос: http://localhost:8081/api/cards/8
     "name": "John Doe"
 }
 
-frontend - запуск через yarn, тестовые данные https://jsonplaceholder.typicode.com/users
+frontend - запуск через yarn
 
 mobile - скомпилить файл
