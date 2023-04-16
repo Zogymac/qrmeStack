@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "609290090514",
+    "project_id": "cardfate-692b3",
+    "storage_bucket": "cardfate-692b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609290090514:android:a0ebb24af9d0a3657540cb",
+        "android_client_info": {
+          "package_name": "com.example.cardfate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609290090514-gh9deufk671fohao4t2jp5f7c57gff94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cardfate",
+            "certificate_hash": "efb1c316bd8fc6ceb7720101c7f303931a873570"
+          }
+        },
+        {
+          "client_id": "609290090514-i6adp9qsdtdktbhgitul9cbci0uc8tsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf3HyaveEZsKDevRCpkup4uXnELv6PRKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609290090514-i6adp9qsdtdktbhgitul9cbci0uc8tsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

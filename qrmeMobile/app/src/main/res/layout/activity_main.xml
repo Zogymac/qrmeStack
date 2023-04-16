@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.fragment.app.FragmentContainerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/main_container"
+    tools:layout="@layout/fragment_main"
+    android:name="com.example.cardfate.presentation.fragment.MainFragment"
+    android:layout_height="match_parent"
+    tools:context=".presentation.activity.MainActivity"/>
+
